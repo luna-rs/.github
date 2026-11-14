@@ -17,7 +17,7 @@ Explore the source, report bugs, suggest features, or contribute code. Whether y
 <a href="https://luna2006.rs/"><img src="play-luna-2006.png" alt="Play Luna 2006" width="320" height="88" border="0"></a>
 </p>
 
-**Luna 2006** is a free-to-playe actively hosted 2006-era experience based on this organization's project. Come see the 
+**Luna 2006** is a free-to-play actively hosted 2006-era experience based on this organization's project. Come see the 
 gameplay for yourself!
 
 - 5x experience for players, 1x experience for bots
