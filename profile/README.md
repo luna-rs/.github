@@ -14,7 +14,7 @@ Explore the source, report bugs, suggest features, or contribute code. Whether y
 **[Getting started](https://github.com/luna-rs/luna/wiki)** · **[Discord](https://discord.gg/cpqFaHMdv9)**
 
 <p align="center">
-<a href="https://luna2006.rs/"><img src="profile/play-luna-2006.png" alt="Play Luna 2006" width="320" height="88" border="0"></a>
+<a href="https://luna2006.rs/"><img src="play-luna-2006.png" alt="Play Luna 2006" width="320" height="88" border="0"></a>
 </p>
 
 **Luna 2006** is a free-to-playe actively hosted 2006-era experience based on this organization's project. Come see the 
