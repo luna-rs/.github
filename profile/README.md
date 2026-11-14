@@ -1,5 +1,3 @@
-![](/profile/logo.png)
-
 We build Luna, an open-source RuneScape server bringing 2006-era gameplay to life with autonomous player bots.
 
 Our bots train skills, trade, fight, and progress alongside players, helping create a world with an active community and economy.
@@ -13,4 +11,15 @@ Our bots train skills, trade, fight, and progress alongside players, helping cre
 
 Explore the source, report bugs, suggest features, or contribute code. Whether you enjoy building game systems or simply exploring classic RuneScape, you're welcome here.
 
-**[Play Luna 2006](https://luna2006.rs/)** · **[Getting started](https://github.com/luna-rs/luna/wiki)** · **[Discord](https://discord.gg/cpqFaHMdv9)**
+**[Getting started](https://github.com/luna-rs/luna/wiki)** · **[Discord](https://discord.gg/cpqFaHMdv9)**
+
+<p align="center">
+<a href="https://luna2006.rs/"><img src="profile/play-luna-2006.png" alt="Play Luna 2006" width="320" height="88" border="0"></a>
+</p>
+
+**Luna 2006** is a free-to-playe actively hosted 2006-era experience based on this organization's project. Come see the 
+gameplay for yourself!
+
+- 5x experience for players, 1x experience for bots
+- Standard economy, no item spawns
+- No character/economy wipes or resets
