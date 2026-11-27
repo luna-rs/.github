@@ -11,7 +11,7 @@ Our bots train skills, trade, fight, and progress alongside players, helping cre
 
 Explore the source, report bugs, suggest features, or contribute code. Whether you enjoy building game systems or simply exploring classic RuneScape, you're welcome here.
 
-**[Getting started](https://github.com/luna-rs/luna/wiki)** · **[Discord](https://discord.gg/cpqFaHMdv9)**
+**[Getting started](https://github.com/luna-rs/luna/wiki)** · **[Discord](https://discord.gg/PyMpDMqp4j)**
 
 <p align="center">
 <a href="https://luna2006.rs/"><img src="play-luna-2006.png" alt="Play Luna 2006" width="320" height="88" border="0"></a>
